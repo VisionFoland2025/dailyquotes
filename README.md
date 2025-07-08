@@ -1,6 +1,10 @@
-# daily_quotes
+## daily_quotes
+![photo_5434041938169950347_y](https://github.com/user-attachments/assets/bef3041b-9835-419a-8e9a-662ecd2be6dc)
+A simple and beautiful Flutter app that delivers inspiring quotes every day.
 
-A new Flutter project.
+✨ Get a new random quote with a single tap
+⭐ Mark your favorite quotes and view them in a separate list
+📋 Copy quotes to clipboard for easy sharing
 
 ## Getting Started
 
